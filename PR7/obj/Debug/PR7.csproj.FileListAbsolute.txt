@@ -1,0 +1,10 @@
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\bin\Debug\PR7.exe.config
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\bin\Debug\PR7.exe
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\bin\Debug\PR7.pdb
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.csproj.AssemblyReference.cache
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.MainForm.resources
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.Properties.Resources.resources
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.csproj.GenerateResource.cache
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.csproj.CoreCompileInputs.cache
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.exe
+C:\Users\GennadyBigLaptop\source\repos\PR7\PR7\obj\Debug\PR7.pdb
